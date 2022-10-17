@@ -1,4 +1,4 @@
-package es.alejandro.easypokedex
+package es.alejandro.easydex
 
 import org.junit.Test
 

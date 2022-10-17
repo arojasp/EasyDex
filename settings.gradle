@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "EasyPokeDex"
+rootProject.name = "EasyDex"
 include ':app'
